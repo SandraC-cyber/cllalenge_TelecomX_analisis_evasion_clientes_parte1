@@ -63,3 +63,4 @@ Editar
 🔹 Optimizar hiperparámetros para obtener mejor rendimiento.
 
 ✨ Con este análisis, se busca apoyar a la empresa en la toma de decisiones estratégicas para reducir el abandono de clientes y mejorar la retención.
+Elaborado por Sandra Patricia Carrillo Velosa
